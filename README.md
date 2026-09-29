@@ -88,7 +88,7 @@ This project requires an **8086 Assembly development or emulation environment** 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/health-manager-assembly.git
+git clone https://github.com/nahianraidah/health-manager-assembly.git
 ```
 
 ### 2. Open the Source File
