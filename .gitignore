@@ -1,0 +1,12 @@
+# Assembly build files
+*.obj
+*.exe
+*.lst
+*.map
+
+# Temporary files
+*.tmp
+*.bak
+
+# IDE/editor files
+.vscode/
